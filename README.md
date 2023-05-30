@@ -1,2 +1,2 @@
 # Master-Thesis
-These are the raw data for that were analyzed with the help of the program 'R' in csv format
+In this repository you can find the raw data of the experiment, the Rscript used for the statistcal analysis (+ plots), and acces to the copies of the experiment via Google forms.
